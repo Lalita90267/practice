@@ -1,0 +1,25 @@
+*{
+    text-decoration: none;
+}
+.navbar{
+    background-color: aqua;
+
+
+}
+.navdiv{
+    display:flex;
+    align-items:centre;
+    justify-content:space-between ;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    margin-right: 25px;
+}
+.logo{
+    height:50px;
+    width: 50px;
+    left: 0px;
+}
